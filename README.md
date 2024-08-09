@@ -10,6 +10,10 @@ This is a Hall Booking Application built using Node.js and Express. The applicat
 - **List Customers**: View all customers and their bookings.
 - **Customer Booking Statistics**: View the booking history of a specific customer.
 
+## Documentation
+The Postman documentation for this API can be accessed at:
+[Postman Documentation](https://documenter.getpostman.com/view/37539382/2sA3s1psMH)
+
 ## API Endpoints
 
 - **Create Room**
@@ -112,7 +116,5 @@ This is a Hall Booking Application built using Node.js and Express. The applicat
     ]
     ```
 
-## Documentation
-The Postman documentation for this API can be accessed at:
-[Postman Documentation](https://documenter.getpostman.com/view/37539382/2sA3s1psMH)
+
 
